@@ -1,0 +1,13 @@
+@import '../../../design-standards/constants.scss';
+
+.screen {
+    padding-top: 30px;
+    margin-top: 30px;
+    
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    width: 100%;
+    height: 200vh;
+    background-color: $screenColor;
+}
